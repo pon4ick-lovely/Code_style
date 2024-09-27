@@ -33,3 +33,4 @@ print('Prime: ',list_prime)
 print('No prime: ',list_noprime)
 
 
+
