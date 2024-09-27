@@ -26,6 +26,8 @@ for i in numbers:
     if i not in list_noprime:
         list_prime.append(i)
 
+list_prime.remove(1)
+
 #вывод
 print('Prime: ',list_prime)
 print('No prime: ',list_noprime)
